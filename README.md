@@ -4,7 +4,7 @@
 
 MCLP외 LSCP, PMP 알고리즘도 적용 중입니다.
 
-MCLP 결과는 MCLP_in_Jongro/rawdata/output_mclp2.png에 있습니다.
+MCLP 결과는 MCLP_in_Jongro/result/output_mclp2.png에 있습니다.
 
 일부 rawdata는 용량이 커 업로드하지 않았습니다.
 문의주실 내용은 cozy16800@gmail.com으로 메일 보내주심 감사하겠습니다.
